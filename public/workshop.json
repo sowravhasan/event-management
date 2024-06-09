@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Photography Basics Workshop",
+      "description": "Join our Photography Basics Workshop to learn about camera settings, composition, and lighting techniques.",
+      "price": 99.99,
+      "date": "2023-11-18",
+      "location": "City Center",
+      "img": "https://i.ibb.co/bsWDmvC/seo.jpg",
+      "duration": "1 day"
+    },
+    {
+      "id": 2,
+      "title": "Art of Cooking Workshop",
+      "description": "Discover the Art of Cooking in our hands-on workshop, where you'll learn to prepare delicious dishes from scratch.",
+      "price": 79.99,
+      "date": "2023-11-25",
+      "location": "Culinary School",
+      "img": "https://i.ibb.co/bsWDmvC/seo.jpg",
+      "duration": "2 days"
+    },
+    {
+      "id": 3,
+      "title": "Yoga and Mindfulness Retreat",
+      "description": "Experience inner peace and relaxation in our Yoga and Mindfulness Retreat, designed to reduce stress and improve well-being.",
+      "price": 149.99,
+      "date": "2023-12-02",
+      "location": "Retreat Center",
+      "img": "https://i.ibb.co/bsWDmvC/seo.jpg",
+      "duration": "3 days"
+    },
+    {
+      "id": 4,
+      "title": "Creative Writing Workshop",
+      "description": "Unleash your creativity in our Creative Writing Workshop, where you'll learn to write compelling stories and poems.",
+      "price": 89.99,
+      "date": "2023-11-20",
+      "location": "Community Center",
+      "img": "https://i.ibb.co/bsWDmvC/seo.jpg",
+      "duration": "1 week"
+    },
+    {
+      "id": 5,
+      "title": "DIY Home Improvement Workshop",
+      "description": "Transform your living space with our DIY Home Improvement Workshop, covering painting, carpentry, and more.",
+      "price": 129.99,
+      "date": "2023-12-09",
+      "location": "Home Improvement Store",
+      "img": "https://i.ibb.co/bsWDmvC/seo.jpg",
+      "duration": "2 days"
+    },
+    {
+      "id": 6,
+      "title": "Financial Literacy Seminar",
+      "description": "Take control of your finances in our Financial Literacy Seminar, where you'll learn about budgeting, investing, and savings.",
+      "price": 49.99,
+      "date": "2023-11-15",
+      "location": "Conference Center",
+      "img": "https://i.ibb.co/bsWDmvC/seo.jpg",
+      "duration": "1 day"
+    }
+  ]
+  

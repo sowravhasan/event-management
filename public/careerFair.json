@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "title": "Career Fair: Tech Industry Opportunities",
+      "description": "Explore exciting career opportunities in the tech industry at our career fair. Connect with leading tech companies, network with industry professionals, and discover your path to a rewarding tech career.",
+      "price": 0,
+      "date": "2023-10-25",
+      "location": "Tech Convention Center, Innovate City",
+      "img": "https://i.ibb.co/0GQ4wsT/accounting.jpg",
+      "lesson": "Tech Careers, Networking, Industry Insights",
+      "duration": "4 hours"
+    },
+    {
+      "id": 2,
+      "title": "Career Fair: Healthcare Professions Expo",
+      "description": "Discover a world of opportunities in healthcare at our professions expo. Meet healthcare organizations, learn about diverse healthcare roles, and take steps toward a fulfilling healthcare career.",
+      "price": 0,
+      "date": "2023-11-12",
+      "location": "Health Campus, Medville",
+      "img": "https://i.ibb.co/0GQ4wsT/accounting.jpg",
+      "lesson": "Healthcare Careers, Industry Networking, Role Exploration",
+      "duration": "3 hours"
+    },
+    {
+      "id": 3,
+      "title": "Career Fair: Finance and Banking Showcase",
+      "description": "Join us for the finance and banking showcase to connect with top financial institutions. Explore career opportunities in finance, banking, and investment, and gain insights into the finance industry.",
+      "price": 0,
+      "date": "2023-12-05",
+      "location": "Finance Center, Moneytown",
+      "img": "https://i.ibb.co/0GQ4wsT/accounting.jpg",
+      "lesson": "Finance Careers, Banking Opportunities, Industry Insights",
+      "duration": "4 hours"
+    },
+    {
+      "id": 4,
+      "title": "Career Fair: Creative Arts and Media Expo",
+      "description": "Unleash your creative potential at our arts and media expo. Connect with creative agencies, media outlets, and explore career paths in graphic design, journalism, and more.",
+      "price": 0,
+      "date": "2024-01-15",
+      "location": "Arts Center, Creativityville",
+      "img": "https://i.ibb.co/0GQ4wsT/accounting.jpg",
+      "lesson": "Creative Careers, Media Opportunities, Artistic Pathways",
+      "duration": "3.5 hours"
+    },
+    {
+      "id": 5,
+      "title": "Career Fair: Engineering and Technology Expo",
+      "description": "Engineer your future at our technology expo. Meet innovative tech companies, learn about engineering roles, and explore the latest advancements in the tech and engineering sectors.",
+      "price": 0,
+      "date": "2024-02-20",
+      "location": "Tech Hub, Innovate City",
+      "img": "https://i.ibb.co/0GQ4wsT/accounting.jpg",
+      "lesson": "Engineering Careers, Tech Opportunities, Industry Advancements",
+      "duration": "4 hours"
+    },
+    {
+      "id": 6,
+      "title": "Career Fair: Environmental Sustainability Forum",
+      "description": "Join the sustainability movement at our environmental forum. Connect with organizations dedicated to sustainability, explore green career paths, and make a positive impact on the planet.",
+      "price": 0,
+      "date": "2024-03-10",
+      "location": "Eco Center, Greenburg",
+      "img": "https://i.ibb.co/0GQ4wsT/accounting.jpg",
+      "lesson": "Sustainability Careers, Green Opportunities, Environmental Impact",
+      "duration": "3 hours"
+    }
+  ]
+
+  

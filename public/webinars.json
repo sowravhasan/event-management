@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "title": "Effective Study Strategies Workshop",
+      "description": "Join us for a hands-on workshop where you'll learn proven study techniques, time management skills, and strategies to boost your academic performance. Get ready to ace your exams and excel in your coursework.",
+      "price": 49.99,
+      "date": "2023-09-15",
+      "location": "123 Main Street, Cityville",
+      "img": "https://i.ibb.co/1GTpqx1/python.jpg",
+      "lesson": "Study Techniques, Time Management, Test Preparation",
+      "duration": "3 hours"
+    },
+    {
+      "id": 2,
+      "title": "Digital Literacy and Online Safety Workshop",
+      "description": "In this digital age, it's crucial to stay safe and informed online. Our workshop covers the essentials of digital literacy, online privacy, and cybersecurity. Equip yourself with the knowledge to navigate the internet securely.",
+      "price": 29.99,
+      "date": "2023-09-22",
+      "location": "456 Tech Avenue, Techburg",
+      "img": "https://i.ibb.co/1GTpqx1/python.jpg",
+      "lesson": "Digital Literacy, Online Privacy, Cybersecurity",
+      "duration": "2.5 hours"
+    },
+    {
+      "id": 3,
+      "title": "STEM Exploration Day",
+      "description": "Calling all young scientists and engineers! Join us for a day filled with exciting STEM (Science, Technology, Engineering, and Mathematics) activities and experiments. Explore the wonders of the STEM world and ignite your curiosity.",
+      "price": 19.99,
+      "date": "2023-10-05",
+      "location": "789 Science Road, Sciencetown",
+      "img": "https://i.ibb.co/1GTpqx1/python.jpg",
+      "lesson": "STEM Activities, Experiments, Science Exploration",
+      "duration": "6 hours"
+    },
+    {
+      "id": 4,
+      "title": "Financial Literacy Bootcamp",
+      "description": "Take control of your finances with our intensive financial literacy bootcamp. Learn how to budget, save, invest, and make informed financial decisions for a secure future. Financial freedom starts here.",
+      "price": 59.99,
+      "date": "2023-10-12",
+      "location": "101 Finance Lane, Moneyville",
+      "img": "https://i.ibb.co/1GTpqx1/python.jpg",
+      "lesson": "Budgeting, Saving, Investing, Financial Planning",
+      "duration": "4 hours"
+    },
+    {
+      "id": 5,
+      "title": "Financial Literacy Bootcamp For All Department",
+      "description": "Alwatys take control of your finances with our intensive financial literacy bootcamp. Learn how to budget, save, invest, and make informed financial decisions for a secure future. Financial freedom starts here.",
+      "price": 39.99,
+      "date": "2023-10-15",
+      "location": "101 Finance Lane, USA",
+      "img": "https://i.ibb.co/1GTpqx1/python.jpg",
+      "lesson": "Budgeting, Saving, Investing, Financial Planning",
+      "duration": "46 hours"
+    },
+    {
+      "id": 6,
+      "title": "Coding Bootcamp: Web Development",
+      "description": "Embark on a coding journey and become a web developer in this intensive bootcamp. Gain hands-on experience in HTML, CSS, JavaScript, and more, and build your own web projects.",
+      "price": 299.99,
+      "date": "2023-10-08",
+      "location": "456 Code Street, Devtown",
+      "img": "https://i.ibb.co/1GTpqx1/python.jpg",
+      "lesson": "HTML, CSS, JavaScript, Web Projects",
+      "duration": "8 weeks"
+    }
+  ]
+  

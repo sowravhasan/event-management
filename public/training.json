@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Python Programming",
+      "description": "Learn the fundamentals of Python programming, including variables, data types, and basic control structures.",
+      "price": 49.99,
+      "date": "2023-11-15",
+      "location": "Online",
+      "img": "https://i.ibb.co/nnkVkXx/web-development.jpg",
+      "lesson": "10 lessons",
+      "duration": "4 weeks"
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning Fundamentals",
+      "description": "Explore the basics of machine learning, including supervised and unsupervised learning, algorithms, and model evaluation.",
+      "price": 79.99,
+      "date": "2023-12-01",
+      "location": "Online",
+      "img": "https://i.ibb.co/nnkVkXx/web-development.jpg",
+      "lesson": "12 lessons",
+      "duration": "6 weeks"
+    },
+    {
+      "id": 3,
+      "title": "Web Development with HTML and CSS",
+      "description": "Build responsive and interactive websites using HTML and CSS, covering the essentials of web development.",
+      "price": 59.99,
+      "date": "2023-11-20",
+      "location": "Online",
+      "img": "https://i.ibb.co/nnkVkXx/web-development.jpg",
+      "lesson": "8 lessons",
+      "duration": "3 weeks"
+    },
+    {
+      "id": 4,
+      "title": "Data Analysis with Python Pandas",
+      "description": "Master data analysis using Python's Pandas library, focusing on data manipulation, cleaning, and visualization.",
+      "price": 69.99,
+      "date": "2023-11-25",
+      "location": "Online",
+      "img": "https://i.ibb.co/nnkVkXx/web-development.jpg",
+      "lesson": "10 lessons",
+      "duration": "5 weeks"
+    },
+    {
+      "id": 5,
+      "title": "Digital Marketing Strategies",
+      "description": "Discover effective digital marketing strategies, including SEO, social media marketing, email campaigns, and analytics.",
+      "price": 89.99,
+      "date": "2023-12-05",
+      "location": "Online",
+      "img": "https://i.ibb.co/nnkVkXx/web-development.jpg",
+      "lesson": "14 lessons",
+      "duration": "7 weeks"
+    },
+    {
+      "id": 6,
+      "title": "Introduction to Financial Planning",
+      "description": "Learn the basics of financial planning, including budgeting, investing, retirement planning, and managing debt.",
+      "price": 49.99,
+      "date": "2023-11-10",
+      "location": "Online",
+      "img": "https://i.ibb.co/nnkVkXx/web-development.jpg",
+      "lesson": "9 lessons",
+      "duration": "4 weeks"
+    }
+  ]
+  

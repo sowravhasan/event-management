@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "title": "Effective Study Strategies Workshop",
+      "description": "Join us for a hands-on workshop where you'll learn proven study techniques, time management skills, and strategies to boost your academic performance. Get ready to ace your exams and excel in your coursework.",
+      "price": 49.99,
+      "date": "2023-05-15",
+      "location": "123 Main Street, Cityville",
+      "img": "https://i.ibb.co/Bj3WD4h/graphics.jpg",
+      "lesson": "Study Techniques, Time Management, Test Preparation",
+      "duration": "3 hours"
+    },
+    {
+      "id": 2,
+      "title": "Digital Literacy and Online Safety Workshop",
+      "description": "In this digital age, it's crucial to stay safe and informed online. Our workshop covers the essentials of digital literacy, online privacy, and cybersecurity. Equip yourself with the knowledge to navigate the internet securely.",
+      "price": 29.99,
+      "date": "2023-06-10",
+      "location": "456 Tech Avenue, Techburg",
+      "img": "https://i.ibb.co/Bj3WD4h/graphics.jpg",
+      "lesson": "Digital Literacy, Online Privacy, Cybersecurity",
+      "duration": "2.5 hours"
+    },
+    {
+      "id": 3,
+      "title": "STEM Exploration Day",
+      "description": "Calling all young scientists and engineers! Join us for a day filled with exciting STEM (Science, Technology, Engineering, and Mathematics) activities and experiments. Explore the wonders of the STEM world and ignite your curiosity.",
+      "price": 19.99,
+      "date": "2023-07-22",
+      "location": "789 Science Road, Sciencetown",
+      "img": "https://i.ibb.co/Bj3WD4h/graphics.jpg",
+      "lesson": "STEM Activities, Experiments, Science Exploration",
+      "duration": "6 hours"
+    },
+    {
+      "id": 4,
+      "title": "Financial Literacy Bootcamp",
+      "description": "Take control of your finances with our intensive financial literacy bootcamp. Learn how to budget, save, invest, and make informed financial decisions for a secure future. Financial freedom starts here.",
+      "price": 59.99,
+      "date": "2023-08-05",
+      "location": "101 Finance Lane, Moneyville",
+      "img": "https://i.ibb.co/Bj3WD4h/graphics.jpg",
+      "lesson": "Budgeting, Saving, Investing, Financial Planning",
+      "duration": "4 hours"
+    },
+    {
+        "id": 5,
+        "title": "Creative Writing Workshop: Unleash Your Imagination",
+        "description": "Unleash your inner storyteller and discover the art of creative writing. This workshop will inspire you to craft compelling narratives, develop unique characters, and bring your imaginative worlds to life through words.",
+        "price": 39.99,
+        "date": "2023-09-15",
+        "location": "555 Writer's Lane, Storyville",
+        "img": "https://i.ibb.co/Bj3WD4h/graphics.jpg",
+        "lesson": "Creative Writing Techniques, Character Development, Storytelling",
+        "duration": "3.5 hours"
+      },
+      {
+        "id": 6,
+        "title": "Entrepreneurship 101: From Idea to Startup",
+        "description": "Have a brilliant business idea? Learn the fundamentals of entrepreneurship in this workshop. We'll guide you through the process of turning your concept into a viable startup, from business planning to pitching.",
+        "price": 49.99,
+        "date": "2023-10-02",
+        "location": "777 Startup Street, Entrepreneurville",
+        "img": "https://i.ibb.co/Bj3WD4h/graphics.jpg",
+        "lesson": "Business Planning, Startup Fundamentals, Pitching",
+        "duration": "4 hours"
+      }
+  ]
+  

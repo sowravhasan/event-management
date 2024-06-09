@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Leadership Excellence Seminar",
+      "description": "Unlock your leadership potential in our Leadership Excellence Seminar, featuring insights from industry experts.",
+      "price": 79.99,
+      "date": "2023-12-02",
+      "location": "Conference Center",
+      "img": "https://i.ibb.co/jG2Rx8h/video-editing.jpg",
+      "duration": "1 day"
+    },
+    {
+      "id": 2,
+      "title": "Digital Marketing Trends Seminar",
+      "description": "Stay updated on the latest digital marketing trends in our seminar, where you'll learn about SEO, social media, and more.",
+      "price": 49.99,
+      "date": "2023-11-25",
+      "location": "Tech Hub",
+      "img": "https://i.ibb.co/jG2Rx8h/video-editing.jpg",
+      "duration": "1 day"
+    },
+    {
+      "id": 3,
+      "title": "Financial Planning for Beginners",
+      "description": "Get started on your financial journey with our seminar, covering budgeting, saving, and basic investing strategies.",
+      "price": 29.99,
+      "date": "2023-11-18",
+      "location": "Community Center",
+      "img": "https://i.ibb.co/jG2Rx8h/video-editing.jpg",
+      "duration": "1 day"
+    },
+    {
+      "id": 4,
+      "title": "Health and Wellness Seminar",
+      "description": "Prioritize your health and well-being in our seminar, featuring talks on nutrition, fitness, and stress management.",
+      "price": 39.99,
+      "date": "2023-12-09",
+      "location": "Wellness Center",
+      "img": "https://i.ibb.co/jG2Rx8h/video-editing.jpg",
+      "duration": "1 day"
+    },
+    {
+      "id": 5,
+      "title": "Environmental Sustainability Summit",
+      "description": "Join the Environmental Sustainability Summit to explore eco-friendly practices and conservation efforts.",
+      "price": 69.99,
+      "date": "2023-11-20",
+      "location": "Environmental Institute",
+      "img": "https://i.ibb.co/jG2Rx8h/video-editing.jpg",
+      "duration": "2 days"
+    },
+    {
+      "id": 6,
+      "title": "Technology Innovation Seminar",
+      "description": "Discover the latest innovations in technology at our seminar, featuring discussions on AI, blockchain, and more.",
+      "price": 59.99,
+      "date": "2023-11-15",
+      "location": "Tech Conference Center",
+      "img": "https://i.ibb.co/jG2Rx8h/video-editing.jpg",
+      "duration": "2 days"
+    }
+  ]
+  

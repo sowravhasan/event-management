@@ -1,0 +1,5 @@
+#bg{
+    height: 80vh;
+    background-image: url("/src/assets/images/2.png");
+    background-size: cover;
+}

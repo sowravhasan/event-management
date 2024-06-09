@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "course_name": "Web Development Bootcamp",
+    "title": "Mastering Web Development: From HTML to Advanced JavaScript",
+    "rating": 4.5,
+    "lesson_number": 1,
+    "time": "1h 30m",
+    "price": 49.99,
+    "img": "https://i.ibb.co/nnkVkXx/web-development.jpg",
+    "desctiption" : "Web development involves the creation and maintenance of websites and web applications. It encompasses various skills, including coding in languages like HTML, CSS, and JavaScript, as well as backend development with tools like PHP, Python, or Node.js. Web developers ensure websites are responsive, user-friendly, and functional across different devices and browsers. They also focus on optimizing performance and security."
+  },
+  {
+    "id": 2,
+    "course_name": "Machine Learning Fundamentals",
+    "title": "Machine Learning Mastery: Algorithms, Models, and Applications",
+    "rating": 4.8,
+    "lesson_number": 1,
+    "time": "2h",
+    "price": 59.99,
+    "img": "https://i.ibb.co/1GTpqx1/python.jpg",
+    "desctiption" : "Machine learning is a subset of artificial intelligence that focuses on developing algorithms and models that enable computers to learn from data and make predictions or decisions. Machine learning engineers and data scientists use programming languages like Python and tools like TensorFlow or scikit-learn to build and train models for tasks like image recognition, natural language processing, and recommendation systems. Machine learning plays a crucial role in automating tasks and making data-driven decisions in various industries."
+  },
+  {
+    "id": 3,
+    "course_name": "Search Engine Optimization",
+    "title": "SEO Unleashed: Boosting Your Website's Visibility",
+    "rating": 4.6,
+    "lesson_number": 5,
+    "time": "2h 15m",
+    "price": 39.99,
+    "img": "https://i.ibb.co/bsWDmvC/seo.jpg",
+    "desctiption" : "SEO is the practice of improving a website's visibility on search engines like Google. It involves optimizing content, meta tags, and website structure to rank higher in search results. SEO professionals use strategies like keyword research, link building, and on-page optimization to enhance a website's organic search traffic."
+  },
+  {
+    "id": 4,
+    "course_name": "Graphic Design Essentials",
+    "title": "Graphic Design Essentials: Creativity and Visual Communication",
+    "rating": 4.7,
+    "lesson_number": 2,
+    "time": "1h 45m",
+    "price": 54.99,
+    "img": "https://i.ibb.co/Bj3WD4h/graphics.jpg",
+    "desctiption" : "Graphics design is the art of creating visual content, such as logos, illustrations, and marketing materials. Graphic designers use software like Adobe Photoshop and Illustrator to craft visually appealing and communicative designs that align with a brand's identity and message."
+  },
+  {
+    "id": 5,
+    "course_name": "Video Editing",
+    "title": "Video Editing Pro: Transforming Raw Footage into Masterpieces",
+    "rating": 4.9,
+    "lesson_number": 3,
+    "time": "2h 30m",
+    "price": 69.99,
+    "img": "https://i.ibb.co/jG2Rx8h/video-editing.jpg",
+    "desctiption" : "Video editing is the process of manipulating and enhancing video footage to create engaging and cohesive content. Video editors use software like Adobe Premiere Pro or Final Cut Pro to trim, cut, add effects, and improve audio quality to produce polished videos for various purposes, including marketing, entertainment, and education."
+  },
+  {
+    "id": 6,
+    "course_name": "Business Finance for Beginners",
+    "title": "Accounting Fundamentals: Managing Finances with Precision",
+    "rating": 4.4,
+    "lesson_number": 1,
+    "time": "1h 15m",
+    "price": 44.99,
+    "img": "https://i.ibb.co/0GQ4wsT/accounting.jpg",
+    "desctiption" : "Accounting involves managing financial transactions, budgets, and records for individuals, businesses, or organizations. Accountants track income, expenses, and taxes, ensuring compliance with financial regulations and providing valuable insights for decision-making. They use software like QuickBooks or Excel to maintain accurate financial records."
+  }
+]
